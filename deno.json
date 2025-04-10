@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "dev": "deno run --watch --allow-env --allow-read --allow-net --env-file=.env.local main.ts"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1",
+    "hono": "npm:hono@^4.7.6",
+    "openai": "npm:openai@^4.93.0"
+  }
+}
