@@ -4,7 +4,7 @@
 
 - [Deno (v2)](https://deno.com)
 
-(Alternatively, a devbox environment with Deno v2 installed had been provided)
+(Alternatively, a devbox environment with Deno v2 installed has been provided)
 
 ## Quickstart
 
