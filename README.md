@@ -12,7 +12,7 @@ Set environment variables:
 
 ```bash
 cp .env.example .env.local
-# And set an OpenAI API key and Billing API Bearer Token
+# And set an OpenAI API key and Billing API Bearer Token inside `.env.local`
 ```
 
 Set a customer-id in `config.ts`, to simulate the current customer:
