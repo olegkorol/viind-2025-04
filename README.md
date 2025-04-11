@@ -15,6 +15,12 @@ cp .env.example .env.local
 # And set an OpenAI API key and Billing API Bearer Token inside `.env.local`
 ```
 
+Install dependencies:
+
+```bash
+deno install
+```
+
 Set a customer-id in `config.ts`, to simulate the current customer:
 
 ```ts
